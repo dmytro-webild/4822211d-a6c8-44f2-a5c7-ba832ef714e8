@@ -66,38 +66,38 @@ export default function LandingPage() {
             {
               id: 1,
               title: "Roof Restoration",              description: "Full roof restoration with cleaning, sealing, and painting. Extends roof life and enhances curb appeal.",              buttons: [{ text: "Learn More", href: "#contact" }],
-              phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/construction-exterior-flowers-mediterranean-white_1253-367.jpg" },
-              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/metallic-iron-textured-abstract-backdrop_23-2148139853.jpg" }
+              phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/construction-exterior-flowers-mediterranean-white_1253-367.jpg?_wi=1" },
+              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/metallic-iron-textured-abstract-backdrop_23-2148139853.jpg?_wi=1" }
             },
             {
               id: 2,
               title: "Roof Painting",              description: "Professional roof painting to refresh your home's appearance. High-quality paints for durability and color retention.",              buttons: [{ text: "Learn More", href: "#contact" }],
-              phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/construction-exterior-flowers-mediterranean-white_1253-367.jpg" },
-              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/old-rusted-metal-gate-texture-with-peeling-turquoise-paint-spikes_626616-504.jpg" }
+              phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/construction-exterior-flowers-mediterranean-white_1253-367.jpg?_wi=2" },
+              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/old-rusted-metal-gate-texture-with-peeling-turquoise-paint-spikes_626616-504.jpg?_wi=1" }
             },
             {
               id: 3,
               title: "Pressure Cleaning",              description: "Deep cleaning removes dirt, moss, and algae. Restores your roof to like-new condition safely and effectively.",              buttons: [{ text: "Learn More", href: "#contact" }],
               phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/legs-skateboarder-preparing-ride_23-2147678296.jpg" },
-              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/windmill-witch-rooftop-with-blue-sky_1428-577.jpg" }
+              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/windmill-witch-rooftop-with-blue-sky_1428-577.jpg?_wi=1" }
             },
             {
               id: 4,
               title: "Gutter Cleaning & Guards",              description: "Professional gutter cleaning and guard installation. Protects your roof and prevents water damage.",              buttons: [{ text: "Learn More", href: "#contact" }],
-              phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-people-wearing-helmets_23-2149343655.jpg" },
-              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-people-wearing-helmets_23-2149343655.jpg" }
+              phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-people-wearing-helmets_23-2149343655.jpg?_wi=1" },
+              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-people-wearing-helmets_23-2149343655.jpg?_wi=2" }
             },
             {
               id: 5,
               title: "Roof Repairs",              description: "Fast, reliable leak and damage repairs. Same-day quotes available for emergency roof issues.",              buttons: [{ text: "Learn More", href: "#contact" }],
               phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/high-angle-view-happy-male-electrician-showing-thumb-up-workplace_23-2148087637.jpg" },
-              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/metallic-iron-textured-abstract-backdrop_23-2148139853.jpg" }
+              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/metallic-iron-textured-abstract-backdrop_23-2148139853.jpg?_wi=2" }
             },
             {
               id: 6,
               title: "Waterproofing",              description: "Protective sealants and coatings for long-lasting protection. Prevents leaks and extends roof lifespan.",              buttons: [{ text: "Learn More", href: "#contact" }],
-              phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-working-roof_23-2149343653.jpg" },
-              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-working-roof_23-2149343653.jpg" }
+              phoneOne: { imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-working-roof_23-2149343653.jpg?_wi=1" },
+              phoneTwo: { imageSrc: "http://img.b2bpic.net/free-photo/medium-shot-man-working-roof_23-2149343653.jpg?_wi=2" }
             }
           ]}
           showStepNumbers={true}
@@ -119,13 +119,13 @@ export default function LandingPage() {
           description="Real projects, real results. See how we transform roofs in Blacktown and across Sydney."
           products={[
             {
-              id: "ba1",              name: "Tile Roof Restoration – Blacktown",              price: "Complete Transformation",              imageSrc: "http://img.b2bpic.net/free-photo/metallic-iron-textured-abstract-backdrop_23-2148139853.jpg",              imageAlt: "Tile roof restoration before and after"
+              id: "ba1",              name: "Tile Roof Restoration – Blacktown",              price: "Complete Transformation",              imageSrc: "http://img.b2bpic.net/free-photo/metallic-iron-textured-abstract-backdrop_23-2148139853.jpg?_wi=3",              imageAlt: "Tile roof restoration before and after"
             },
             {
-              id: "ba2",              name: "Full Roof Paint & Clean – Western Sydney",              price: "Professional Workmanship",              imageSrc: "http://img.b2bpic.net/free-photo/old-rusted-metal-gate-texture-with-peeling-turquoise-paint-spikes_626616-504.jpg",              imageAlt: "Roof painting and cleaning transformation"
+              id: "ba2",              name: "Full Roof Paint & Clean – Western Sydney",              price: "Professional Workmanship",              imageSrc: "http://img.b2bpic.net/free-photo/old-rusted-metal-gate-texture-with-peeling-turquoise-paint-spikes_626616-504.jpg?_wi=2",              imageAlt: "Roof painting and cleaning transformation"
             },
             {
-              id: "ba3",              name: "Deep Pressure Clean – Sydney Area",              price: "Quality Results",              imageSrc: "http://img.b2bpic.net/free-photo/windmill-witch-rooftop-with-blue-sky_1428-577.jpg",              imageAlt: "Roof pressure cleaning before after"
+              id: "ba3",              name: "Deep Pressure Clean – Sydney Area",              price: "Quality Results",              imageSrc: "http://img.b2bpic.net/free-photo/windmill-witch-rooftop-with-blue-sky_1428-577.jpg?_wi=2",              imageAlt: "Roof pressure cleaning before after"
             }
           ]}
           carouselMode="buttons"
